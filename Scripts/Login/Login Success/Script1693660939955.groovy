@@ -21,9 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.jubelio.com/login')
 
-WebUI.setText(findTestObject('Object Repository/Jubelio/input_Email'), 'devynursadiah@gmail.com')
+WebUI.setText(findTestObject('Repository/Jubelio/input_Email'), 'devynursadiah@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Jubelio/input_Password'), '@jubelio123')
+WebUI.setEncryptedText(findTestObject('Repository/Jubelio/input_Password'), '@jubelio123')
 
-WebUI.click(findTestObject('Object Repository/Jubelio/login'))
+WebUI.click(findTestObject('Repository/Jubelio/login'))
 

@@ -21,53 +21,53 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://app.jubelio.com/home/inventory/review')
 
-WebUI.setText(findTestObject('Object Repository/Jubelio/input_Email'), 'devynursadiah.com')
+WebUI.setText(findTestObject('Repository/Jubelio/input_Email'), 'devynursadiah.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Jubelio/input_Password'), '@jubelio123')
+WebUI.setEncryptedText(findTestObject('Repository/Jubelio/input_Password'), '@jubelio123')
 
-WebUI.click(findTestObject('Object Repository/Jubelio/login'))
+WebUI.click(findTestObject('Repository/Jubelio/login'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_page/barang'))
+WebUI.click(findTestObject('Repository/Jubelio_page/barang'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_page/katalog'))
+WebUI.click(findTestObject('Repository/Jubelio_page/katalog'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_page/review'))
+WebUI.click(findTestObject('Repository/Jubelio_page/review'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/tambah_item'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/tambah_item'))
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_nama'), 'Novel')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_nama'), 'Novel')
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/div_kategori'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/div_kategori'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/div_nonvarian'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/div_nonvarian'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/div_pilihan'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/div_pilihan'))
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_pilih'), '')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_pilih'), '')
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/div_2 Man'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/div_2 Man'))
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_brand'), 'Rintik sendu')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_brand'), 'Rintik sendu')
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_sku'), '001')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_sku'), '001')
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_barcode'), '12345')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_barcode'), '12345')
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/div_public'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/div_public'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/pilih_gambar'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/pilih_gambar'))
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/pilih_gambar'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/pilih_gambar'))
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_pilih'), '150000')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_pilih'), '150000')
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/div_berat))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/div_berat))
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/input_pilih'), '5')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/input_pilih'), '5')
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/simpan'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/simpan'))
 
-WebUI.setText(findTestObject('Object Repository/Jubelio_InReview/review'), 'Naruto')
+WebUI.setText(findTestObject('Repository/Jubelio_InReview/review'), 'Naruto')
 
-WebUI.click(findTestObject('Object Repository/Jubelio_InReview/span'))
+WebUI.click(findTestObject('Repository/Jubelio_InReview/span'))
 
