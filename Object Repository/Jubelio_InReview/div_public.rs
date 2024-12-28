@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_public</name>
+   <tag></tag>
+   <elementGuidId>2130b863-369e-4560-b377-18dbd516e0f1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.public-DraftStyleDefault-block.public-DraftStyleDefault-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bc0d9454-ce53-45f8-b2a9-aeadac417eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-offset-key</name>
+      <type>Main</type>
+      <value>ejkq9-0-0</value>
+      <webElementGuid>00f0cb37-bf6f-45d3-93ab-6220f8bc7b16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>public-DraftStyleDefault-block public-DraftStyleDefault-ltr</value>
+      <webElementGuid>b5cfc17e-49c8-40b7-a4e9-d23112f9c8e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;page-editor&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;RichTextEditor__root___2QXK-&quot;]/div[@class=&quot;RichTextEditor__editor___1QqIU&quot;]/div[@class=&quot;DraftEditor-root&quot;]/div[@class=&quot;DraftEditor-editorContainer&quot;]/div[@class=&quot;notranslate public-DraftEditor-content&quot;]/div[1]/div[@class=&quot;RichTextEditor__block___2Vs_D RichTextEditor__paragraph___3NTf9&quot;]/div[@class=&quot;public-DraftStyleDefault-block public-DraftStyleDefault-ltr&quot;]</value>
+      <webElementGuid>bafd5791-4323-442c-b919-caf23b4f973c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>9482968b-f381-47b9-8fd6-1c969cabca67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Normal'])[2]/following::div[10]</value>
+      <webElementGuid>fec42635-85cb-4e5e-ae13-3a73c259f1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/following::div[29]</value>
+      <webElementGuid>b29c8fc8-cb7a-44f3-bc59-45a11f2af6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto'])[1]/preceding::div[1]</value>
+      <webElementGuid>0b6eb4bf-ab0a-46a7-88e0-13c6d4ea0520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Gambar'])[1]/preceding::div[3]</value>
+      <webElementGuid>dbd169d1-5ea8-428a-b1d7-500b09451f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>142b0aaf-bbaf-45a7-8a58-a890cdbdcbba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

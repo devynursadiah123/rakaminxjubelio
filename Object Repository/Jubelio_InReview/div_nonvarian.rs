@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_nonvarian</name>
+   <tag></tag>
+   <elementGuidId>3c7652b6-15c5-46ec-b5ad-ddfbe93a5266</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selectivity-result-item.highlight</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b904403-bf7d-41b9-995b-d3431409424f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectivity-result-item highlight</value>
+      <webElementGuid>be1a4701-12f5-489c-bec7-f6a622a14da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-item-id</name>
+      <type>Main</type>
+      <value>1000000005</value>
+      <webElementGuid>dafbc106-a4e2-4153-8cdd-5580116324dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Non-varian
+    </value>
+      <webElementGuid>0746ada1-731c-463f-ad1f-a08ab2b8f2c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-wrapper&quot;)/div[@class=&quot;wrapper wrapper-content&quot;]/div[1]/div[@class=&quot;page-editor&quot;]/div[@class=&quot;form-horizontal&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-collapse collapse in&quot;]/div[@class=&quot;panel-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-md-9&quot;]/div[1]/div[@class=&quot;col-xs-3&quot;]/div[@class=&quot;selectivity-input open hover&quot;]/div[@class=&quot;selectivity-dropdown has-search-input&quot;]/div[@class=&quot;selectivity-results-container&quot;]/div[@class=&quot;selectivity-result-item highlight&quot;]</value>
+      <webElementGuid>2b4d79ae-09c5-42fe-8035-1b15be735ea9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-wrapper']/div[3]/div/div[3]/div[2]/div/div[2]/div/div/div/div[2]/div/div/div/div/div[2]/div[2]/div[3]</value>
+      <webElementGuid>0ac0941b-e735-49c5-8cd7-b01e50ae9bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Muslim'])[1]/following::div[1]</value>
+      <webElementGuid>21de6279-b5b2-4952-b577-1e020969647b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronik'])[1]/following::div[2]</value>
+      <webElementGuid>e4c9d2a5-4c01-42c5-a8c5-4e4eb44f7425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakaian Pria'])[1]/preceding::div[1]</value>
+      <webElementGuid>df3af06f-1ba2-4686-b8b6-056ef5f03f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakaian Wanita'])[1]/preceding::div[2]</value>
+      <webElementGuid>6fb9eaf2-2cb6-49ed-a85e-14461c8f268c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Non-varian']/parent::*</value>
+      <webElementGuid>445c291b-c485-4fae-a424-20b3e889fd4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]</value>
+      <webElementGuid>2e7c8576-5037-4b2b-88e9-0c13120e2464</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Non-varian
+    ' or . = 'Non-varian
+    ')]</value>
+      <webElementGuid>de307156-9b17-4e98-9b92-b32cd54b726e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

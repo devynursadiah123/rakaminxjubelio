@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>katalog</name>
+   <tag></tag>
+   <elementGuidId>6a082f17-a9ef-4ab9-90df-19908cf7c669</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.metismenu-container.visible > li.metismenu-item > a.metismenu-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/nav/div/div/ul/li[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>05603968-6bb7-4f38-bec6-2f825fcbd5bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>metismenu-link</value>
+      <webElementGuid>44f815c7-b4ec-4c45-a5df-3a108ef297ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>faed16aa-9346-406a-9482-93c9699ebe03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Katalog</value>
+      <webElementGuid>9f2d5852-191b-4f48-a117-6db46adaec67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/nav[@class=&quot;navbar-default navbar-static-side&quot;]/div[@class=&quot;sidebar-collapse&quot;]/div[@class=&quot;metismenu nav&quot;]/ul[@class=&quot;metismenu-container&quot;]/li[@class=&quot;metismenu-item&quot;]/ul[@class=&quot;metismenu-container visible&quot;]/li[@class=&quot;metismenu-item&quot;]/a[@class=&quot;metismenu-link&quot;]</value>
+      <webElementGuid>6c8711ef-e7e6-4b4b-a060-a458401095a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/nav/div/div/ul/li[2]/ul/li/a</value>
+      <webElementGuid>70f01a87-5c93-4aad-b7bd-a3e1ab548967</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Barang'])[1]/following::a[1]</value>
+      <webElementGuid>4f001a77-b64f-4465-b01d-f12ff47c9392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::a[2]</value>
+      <webElementGuid>126c5f35-58db-40a4-951b-4416acd148a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Review'])[1]/preceding::a[1]</value>
+      <webElementGuid>a89a2afc-47bb-4368-925c-339075d8d9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>dd0dbfc7-4b92-44d8-9314-7d40a84e2c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/a</value>
+      <webElementGuid>42a1a312-ed58-4343-b110-08767376dab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Katalog' or . = 'Katalog')]</value>
+      <webElementGuid>7e3863ae-6bef-40f6-9afe-c7c2b340f8b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
